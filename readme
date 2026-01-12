@@ -256,7 +256,7 @@ Reinforcement Learning подход к молекулярной оптимиза
 
 ```bibtex
 @misc{ml-chemistry2024,
-  author = {Nikita&Vladimir},
+  author = {Nikita (Kali-Uga) & Vladimir},
   title = {ML Chemistry: Machine Learning для молекулярного дизайна},
   year = {2024},
   publisher = {GitHub},
