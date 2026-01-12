@@ -1,0 +1,10 @@
+numpy==1.21.1
+alfabet==0.4.1
+tensorflow
+rdkit
+matplotlib
+mordred
+xgboost
+scikit-learn
+catboost
+deap

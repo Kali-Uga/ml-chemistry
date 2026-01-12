@@ -1,0 +1,10 @@
+#### датасеты:
+- jonghyunlee/ZINC15
+- chembl
+- maykcaldas/smiles-transformers
+- датасеты с BDE
+
+#### модели для генерации:
+- OpenDFM/ChemDFM-v1.0-13B
+- AI4Chem/ChemLLM-7B-Chat
+- facebook/galactica-6.7b

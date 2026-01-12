@@ -1,0 +1,17 @@
+tqdm
+pandas
+rdkit
+matplotlib
+datasets
+torch
+transformers
+sentencepiece==0.2.0
+protobuf
+accelerate
+tqdm
+mordred
+xgboost
+scikit-learn
+catboost
+deap
+einops
